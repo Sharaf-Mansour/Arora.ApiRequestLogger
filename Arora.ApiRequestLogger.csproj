@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Title>Arora.ApiRequestLogger</Title>
+		<Authors>LordArora</Authors>
+		<Company>ElitesXTech</Company>
+ 		<Description>Middleware to log and count all HTTP route calls with customization.</Description>
+		<PackageTags>Logging; Middleware; API; Route Monitor</PackageTags>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<RepositoryUrl>https://github.com/Sharaf-Mansour/Arora.ApiRequestLogger</RepositoryUrl>
+		<PackageLicenseFile>LICENSE</PackageLicenseFile>
+		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<FileVersion>1.0.0.0</FileVersion>
+		<Version>1.0.0</Version>
+
+		</PropertyGroup>
+</Project>
+
+
+
