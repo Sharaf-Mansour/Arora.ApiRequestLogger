@@ -79,4 +79,5 @@ app.Lifetime.ApplicationStopping.Register(() =>
 
 ## License
 
-MIT License – use it, remix it, spread the power of logging to the unworthy.
+MIT License – use it, remix it, Have fun ☺ 
+**BUILT WITH ♥**
